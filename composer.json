@@ -1,0 +1,17 @@
+{
+    "name": "admin/php_dynamics",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpDynamics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MedChahineHouidhek",
+            "email": "chahinehouidhek2@gmail.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.7"
+    }
+}
